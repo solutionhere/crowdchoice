@@ -1,0 +1,8 @@
+{
+  "name": "crowdchoice",
+  "dependencies": {
+    "@angular/core": "latest",
+    "firebase": "latest",
+    "@angular/fire": "latest"
+  }
+}
